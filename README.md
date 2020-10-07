@@ -10,6 +10,7 @@
 >4. Search Book (About 40,000 Books)
 >5. Explore More Tag Book
 >6. Support Dart Theme   
+>7. Check App Version 
 
 ##### tips:
 >1. Not Support Register User
