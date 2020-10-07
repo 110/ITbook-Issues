@@ -21,8 +21,9 @@
 
 
 ### android
-version :1.0
-download-url :https://github.com/110/ITbook-Issues/releases
+>version :1.0 <br>
+
+>download-url :https://github.com/110/ITbook-Issues/releases
 
 ### iOS
 
