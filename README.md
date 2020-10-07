@@ -20,7 +20,7 @@
 >5. If You a Free User, Please Wait Suuport ,Or buy Vip https://www.buymeacoffee.com/uwJNsFf
 
 
-### android
+### Android
 >version :1.0 <br>
 
 >download-url :https://github.com/110/ITbook-Issues/releases
