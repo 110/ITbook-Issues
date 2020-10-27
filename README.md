@@ -36,7 +36,7 @@
 >3. Windows & Mac & Linux 
 >4. Open Source 
  
-### app preview
+### App Preview
 |          app                      |                 preview               |
 | --------------------------------- | --------------------------------- |
 | <img src="img/0.png" width="300">  |  <img src="img/4.png" width="300">  |
