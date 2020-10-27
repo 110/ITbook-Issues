@@ -29,22 +29,21 @@
 
 >download-url :https://github.com/110/ITbook-Issues/releases
 
-### iOS
+### TODO
 
-please wiat
-
-### Mac & Windows & Linux 
-
-please wiat
-
-### app preview
-
-<img src="img/0.png" width = "110" height = "200" />
-<img src="img/1.png" width = "110" height = "200" />
-<img src="img/2.png" width = "110" height = "200"  />
-<img src="img/3.png" width = "110" height = "200"/>
-<img src="img/4.png" width = "110" height = "200"  />
-<img src="img/5.png" width = "110" height = "200"  />
-<img src="img/6.png" width = "110" height = "200" />
-
+>1. iPhone & iPad
+>2. Android Pad 
+>3. Windows & Mac & Linux 
+>4. Open Source 
  
+### app preview
+|          app                      |                 preview               |
+| --------------------------------- | --------------------------------- |
+| <img src="img/0.png" width="400">  |  <img src="img/4.png" width="400">  |
+| <img src="img/1.png" width="400">  | <img src="img/5.png" width="400">  |
+| <img src="img/2.png" width="400">  | <img src="img/6.png" width="400">  |
+| <img src="img/3.png" width="400">  | <img src="ss/1.png" width="400">  |
+ 
+  
+ ### Thanks For 
+ https://github.com/JideGuru/FlutterEbookApp
