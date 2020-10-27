@@ -16,7 +16,7 @@
 >6. Support Dart Theme   
 >7. Check App Version 
 
-### tips:
+### Tips:
 >1. Not Support Register User
 >2. Not Support Read Pdf ,Mobi ....  ,But Can Share File To Other App To Read
 >3. More Bugs, Need You Write Issuess 
