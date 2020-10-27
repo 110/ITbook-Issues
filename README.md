@@ -16,7 +16,7 @@
 >6. Support Dart Theme   
 >7. Check App Version 
 
-##### tips:
+### tips:
 >1. Not Support Register User
 >2. Not Support Read Pdf ,Mobi ....  ,But Can Share File To Other App To Read
 >3. More Bugs, Need You Write Issuess 
@@ -39,10 +39,10 @@
 ### app preview
 |          app                      |                 preview               |
 | --------------------------------- | --------------------------------- |
-| <img src="img/0.png" width="400">  |  <img src="img/4.png" width="400">  |
-| <img src="img/1.png" width="400">  | <img src="img/5.png" width="400">  |
-| <img src="img/2.png" width="400">  | <img src="img/6.png" width="400">  |
-| <img src="img/3.png" width="400">  | <img src="ss/1.png" width="400">  |
+| <img src="img/0.png" width="300">  |  <img src="img/4.png" width="300">  |
+| <img src="img/1.png" width="300">  | <img src="img/5.png" width="300">  |
+| <img src="img/2.png" width="300">  | <img src="img/6.png" width="300">  |
+| <img src="img/3.png" width="300">  | <img src="ss/1.png" width="300">  |
  
   
  ### Thanks For 
