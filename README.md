@@ -26,7 +26,7 @@
 
 
 ### Android
->version :1.0 <br>
+>version :1.1 <br>
 
 >download-url :https://github.com/110/ITbook-Issues/releases
 
