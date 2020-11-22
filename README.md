@@ -15,6 +15,7 @@
 >5. Explore More Tag Book
 >6. Support Dart Theme   
 >7. Check App Version 
+>8. Favorite Books Sync On More Deivce
 
 ### Tips:
 >1. Not Support Register User
