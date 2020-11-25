@@ -32,9 +32,9 @@
 
 ### TODO
 
->1. iPhone & iPad
->2. Android Pad 
->3. Windows & Mac & Linux 
+>1. iPhone & iPad （2020-12）
+>2. Android Pad （2020-12）
+>3. Windows & Mac & Linux（2020-12）
 >4. Open Source 
  
 ### App Preview
