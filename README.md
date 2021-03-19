@@ -30,6 +30,12 @@
 
 >download-url :https://github.com/110/ITbook-Issues/releases
 
+
+### Macos
+>version :1.1 <br>
+
+>download-url :https://github.com/110/ITbook-Issues/releases/tag/1.2
+
 ### TODO
 
 >1. iPhone & iPad （2020-12）
