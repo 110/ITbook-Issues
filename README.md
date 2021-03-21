@@ -31,10 +31,10 @@
 >download-url :https://github.com/110/ITbook-Issues/releases
 
 
-### Macos
+### Macos + Windows
 >version :1.1 <br>
 
->download-url :https://github.com/110/ITbook-Issues/releases/tag/1.2
+>download-url :https://github.com/110/ITbook-Issues/releases/tag/desktop-pre1
 
 ### TODO
 
