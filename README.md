@@ -40,8 +40,6 @@
 
 >1. iPhone & iPad
 >2. Android Pad 
->3. Windows & Mac & Linux
->4. Open Source 
  
 ### App Preview
 |          app                      |                 preview               |
