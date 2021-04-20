@@ -8,17 +8,17 @@
 
 ### ITbook App Download 
 
->1. Login (Only Support VIP Users)
+>1. Login
 >2. Download Book File
 >3. Share Download File To Other Read App
->4. Search Book (About 40,000 Books)
+>4. Search Book (About 50,000 Books)
 >5. Explore More Tag Book
 >6. Support Dart Theme   
 >7. Check App Version 
 >8. Favorite Books Sync On More Deivce
 
 ### Tips:
->1. Not Support Register User
+>1. Support Free User,But Limit Dailys Down Count
 >2. Not Support Read Pdf ,Mobi ....  ,But Can Share File To Other App To Read
 >3. More Bugs, Need You Write Issuess 
 >4. If You Have Any Function Suggestions, Please Issuess Feedback.
@@ -26,13 +26,13 @@
 
 
 ### Android
->version :1.1 <br>
+>version :1.3 <br>
 
 >download-url :https://github.com/110/ITbook-Issues/releases
 
 
 ### Macos + Windows
->version :1.1 <br>
+>version :1.3 <br>
 
 >download-url :https://github.com/110/ITbook-Issues/releases/tag/desktop-pre1
 
