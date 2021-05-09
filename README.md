@@ -26,15 +26,15 @@
 
 
 ### Android
->version :1.3 <br>
+>version :  <br>
 
 >download-url :https://github.com/110/ITbook-Issues/releases
 
 
 ### Macos + Windows
->version :1.3 <br>
+>version :  <br>
 
->download-url :https://github.com/110/ITbook-Issues/releases/tag/desktop-pre1
+>download-url :https://github.com/110/ITbook-Issues/releases
 
 ### TODO
 
