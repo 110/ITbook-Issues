@@ -1,3 +1,7 @@
+
+## If You a Vip LifeTime, You can  apply itbook app code for github permission
+
+
 ### What's This App ?
 
 > https://itbook.download Login, Donwload, Read, Search App 
@@ -35,6 +39,11 @@
 >version :  <br>
 
 >download-url :https://github.com/110/ITbook-Issues/releases
+
+### iOS Ipad
+
+> If You Are Vip lifetime, You Can Send Email<admin@itbook.download> to me,  I will Open source To You ,You Can build for youself .
+
 
 ### TODO
 
