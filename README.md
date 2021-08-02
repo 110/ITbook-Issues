@@ -2,6 +2,10 @@
 ## If You a Vip LifeTime, You can  apply itbook app code for github permission
 
 
+### Where Found New Upload Books 
+
+> https://t.me/s/itbook_download_notice
+
 ### What's This App ?
 
 > https://itbook.download Login, Donwload, Read, Search App 
@@ -47,8 +51,10 @@
 
 ### TODO
 
->1. iPhone & iPad
->2. Android Pad 
+>1. NLP Recommender
+>2. App Add Books
+>3. Books Convert Online
+
  
 ### App Preview
 |          app                      |                 preview               |
